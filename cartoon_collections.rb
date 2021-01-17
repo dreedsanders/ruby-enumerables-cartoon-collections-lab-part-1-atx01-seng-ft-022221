@@ -20,6 +20,3 @@ def list_dwarves(array)
   # Print a numbered list of each element
 end
 end 
-
- dwarves = ["Dopey", "Grumpy", "Bashful"]
- list_dwarves(dwarves)
